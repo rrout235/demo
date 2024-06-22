@@ -1,4 +1,4 @@
 # demo
 This is my first git Repository.
 <br>
-Auther - Rakesh Roshan
+Auther - Rakesh (Infosys)
